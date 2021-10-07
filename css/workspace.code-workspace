@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\MG\\WEB MG"
+		},
+		{
+			"path": "..\\..\\..\\..\\CODER HOUSE\\DESARROLLO WEB\\ENTREGAS\\final\\SITAD-DIEGO GOMEZ"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Proyecto-Mai-Interverciones-main",
+		"git.ignoreLimitWarning": true,
+		"workbench.tree.indent": 20
+	}
+}
